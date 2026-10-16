@@ -29,7 +29,7 @@ jobs:
 
       - name: Generate calendar
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/contribution_calendar.py
 
       - name: Publish SVG
