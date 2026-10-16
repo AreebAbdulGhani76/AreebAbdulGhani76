@@ -174,13 +174,10 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 
 <img src="https://streak-stats.demolab.com?user=AreebAbdulGhani76&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AreebAbdulGhani76&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=A%20Year%20of%20Building" alt="GitHub contribution activity graph"/>
+<br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AreebAbdulGhani76&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AreebAbdulGhani76&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=A%20Year%20of%20Building" alt="A Year of Building — GitHub contribution activity graph"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebAbdulGhani76&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=AreebAbdulGhani76&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
 ---
