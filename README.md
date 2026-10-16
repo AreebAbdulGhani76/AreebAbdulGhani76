@@ -186,8 +186,6 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AreebAbdulGhani76&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=A%20Year%20of%20Building" alt="A Year of Building — GitHub contribution activity graph"/>
-
 </div>
 
 ---
