@@ -174,11 +174,9 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 
 <div align="center">
 
-<a href="https://areebabdulghani76.github.io/AreebAbdulGhani76/">
+[![Interactive Contribution Calendar](https://img.shields.io/badge/View-Full_Interactive_Calendar-238636?style=for-the-badge&logo=github)](https://areebabdulghani76.github.io/AreebAbdulGhani76/)
 
-  <img src="https://img.shields.io/badge/Open-Interactive_Contribution_Calendar-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Open interactive contribution calendar"/>
-
-</a>
+<img src="https://raw.githubusercontent.com/AreebAbdulGhani76/AreebAbdulGhani76/output/contribution-calendar.svg" width="100%" alt="GitHub Contribution Calendar"/>
 
 </div>
 
