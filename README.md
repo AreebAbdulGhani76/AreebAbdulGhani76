@@ -170,29 +170,6 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebAbdulGhani76&layout=compact&theme=radical&hide_border=true" alt="Most used languages"/>
 
-## A Year of Building 
-
-
-## 📈 A Year of Building
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/AreebAbdulGhani76/AreebAbdulGhani76/output/contribution-calendar.svg"
-  width="100%"
-  alt="GitHub Contribution Calendar"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=AreebAbdulGhani76&theme=radical&hide_border=true"
-  alt="GitHub Contribution Streak"
-/>
-
-</div>
-
-
 ---
 
 ## 🎯 Current Focus
