@@ -5,8 +5,6 @@
   <img src="assets/light.svg" alt="Areeb Abdul Ghani - AI/ML Engineer | Computer Vision | Data Analyst" width="100%"/>
 </picture>
 
-<img src="assets/headshot.jpg" alt="Areeb Abdul Ghani" width="140" style="border-radius:50%"/>
-
 </div>
 
 ## About Me
@@ -60,4 +58,3 @@ Python · scikit-learn · XGBoost · MLflow · FastAPI · Docker · GitHub Actio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Areeb_Abdul_Ghani-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeb-abdul-ghani-682248372/)
 [![GitHub](https://img.shields.io/badge/GitHub-AreebAbdulGhani76-181717?logo=github&logoColor=white)](https://github.com/AreebAbdulGhani76)
-
