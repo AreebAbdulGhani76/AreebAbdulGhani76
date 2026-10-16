@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Areeb Abdul Ghani - AI/ML Engineer | Computer Vision | Data Analyst" width="100%"/>
+<img src=""C:\Users\haroon traders\Desktop\hero.svg"" alt="Areeb Abdul Ghani - AI/ML Engineer | Computer Vision | Data Analyst" width="100%"/>
 
 </div>
 
