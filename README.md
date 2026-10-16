@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Areeb Abdul Ghani - AI/ML Engineer | Computer Vision | Data Analyst" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <img src="assets/light.svg" alt="Areeb Abdul Ghani - AI/ML Engineer | Computer Vision | Data Analyst" width="100%"/>
+</picture>
+
+<img src="assets/headshot.jpg" alt="Areeb Abdul Ghani" width="140" style="border-radius:50%"/>
 
 </div>
 
@@ -47,14 +52,12 @@ Python · scikit-learn · XGBoost · MLflow · FastAPI · Docker · GitHub Actio
 - Google Data Analytics Professional Certificate, Coursera (2026)
 - Information Technology (Web Technologies), SDC Computer Collegiate (2021–22)
 
-## GitHub Stats
+## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AreebAbdulGhani76&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebAbdulGhani76&theme=tokyonight" alt="GitHub streak" height="160"/>
-</p>
+<img src="assets/heatmap.svg" alt="GitHub contribution heatmap" width="100%"/>
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Areeb_Abdul_Ghani-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeb-abdul-ghani-682248372/)
 [![GitHub](https://img.shields.io/badge/GitHub-AreebAbdulGhani76-181717?logo=github&logoColor=white)](https://github.com/AreebAbdulGhani76)
+
