@@ -22,7 +22,7 @@ Currently pursuing a BS in Artificial Intelligence at **Dawood University of Eng
 - Performed exploratory analysis with Python (Pandas, Matplotlib) on 50,000+ records
 - Ran competitor analysis across 8+ market players to support strategic planning
 
-## Selected Projects
+## Projects
 
 **PPE Detection System: Real-Time Computer Vision Pipeline**
 Detects safety gear (cap, safety glasses, gloves, helmet) in live video for workplace compliance.
