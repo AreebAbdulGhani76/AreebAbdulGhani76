@@ -279,3 +279,86 @@ page = page.replace("__DATA__", data)
 Path("dist").mkdir(exist_ok=True)
 Path("dist/index.html").write_text(page, encoding="utf-8")
 print("Interactive HTML contribution calendar generated.")
+
+
+# Generate SVG for the GitHub profile README
+from xml.sax.saxutils import escape
+
+svg_width = 900
+cell_size = 11
+gap = 4
+step = cell_size + gap
+left = 40
+top = 30
+svg_height = 150
+
+first_day = date.fromisoformat(days[0]["date"])
+monday_offset = first_day.weekday()
+
+# Position each contribution day in a Monday-first calendar
+calendar_start = first_day - timedelta(days=monday_offset)
+
+svg_parts = [
+    f'<svg xmlns="http://www.w3.org/2000/svg" '
+    f'viewBox="0 0 {svg_width} {svg_height}" '
+    f'width="100%" role="img" '
+    f'aria-label="GitHub contribution calendar">',
+    '<rect width="100%" height="100%" rx="8" fill="#0d1117"/>',
+    '<text x="10" y="18" fill="#e6edf3" '
+    'font-size="12" font-family="Arial, sans-serif">'
+    f'{calendar["totalContributions"]:,} contributions in the last year'
+    '</text>',
+]
+
+day_map = {item["date"]: item for item in days}
+
+# Month labels
+seen_months = set()
+
+for item in days:
+    day_date = date.fromisoformat(item["date"])
+    col = (day_date - calendar_start).days // 7
+
+    month_key = day_date.strftime("%Y-%m")
+    if day_date.day <= 7 and month_key not in seen_months:
+        x = left + col * step
+        svg_parts.append(
+            f'<text x="{x}" y="45" fill="#8b949e" '
+            f'font-size="10" font-family="Arial, sans-serif">'
+            f'{escape(day_date.strftime("%b"))}</text>'
+        )
+        seen_months.add(month_key)
+
+# Contribution squares with hover tooltips
+for item in days:
+    day_date = date.fromisoformat(item["date"])
+    offset = (day_date - calendar_start).days
+    col = offset // 7
+    row = offset % 7
+
+    x = left + col * step
+    y = top + row * step
+    count = item["contributionCount"]
+    color = item.get("color") or "#161b22"
+
+    tooltip = escape(
+        f'{count} contribution{"s" if count != 1 else ""} on {item["date"]}',
+        {'"': "&quot;"}
+    )
+
+    svg_parts.append(
+        f'<rect x="{x}" y="{y}" width="{cell_size}" '
+        f'height="{cell_size}" rx="2" fill="{color}">'
+        f'<title>{tooltip}</title>'
+        '</rect>'
+    )
+
+svg_parts.append("</svg>")
+
+Path("dist/contribution-calendar.svg").write_text(
+    "\n".join(svg_parts),
+    encoding="utf-8"
+)
+
+print("Interactive HTML and README SVG calendars generated.")
+
