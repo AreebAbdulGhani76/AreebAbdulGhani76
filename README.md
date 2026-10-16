@@ -176,7 +176,7 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
    <img
     src="https://raw.githubusercontent.com/AreebAbdulGhani76/AreebAbdulGhani76/output/contribution-calendar.svg"
     width="100%"
-    alt="Interactive GitHub contribution calendar"
+    alt="GitHub contribution dashboard"
      />
 </div>
 
