@@ -1,8 +1,8 @@
-name: Generate Contribution Grid
+name: Generate Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "20 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -14,15 +14,25 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - name: Generate contribution grid
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: AreebAbdulGhani76
-          outputs: |
-            dist/contribution-grid.svg?palette=github-dark
 
-      - name: Publish generated SVG
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependency
+        run: pip install requests
+
+      - name: Generate calendar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/contribution_calendar.py
+
+      - name: Publish SVG
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
