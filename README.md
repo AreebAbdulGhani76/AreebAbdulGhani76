@@ -213,7 +213,7 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AreebAbdulGhani76&color=C75B7A&style=flat-square&label=Profile+Views" alt="Profile views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=AreebAbdulGhani76&color=0e75b6&style=flat)
 
 **Thanks for visiting my profile! ⭐**
 
