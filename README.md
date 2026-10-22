@@ -113,7 +113,7 @@ Classifies seven facial emotions from webcam input, comparing a custom CNN with 
 
 `Python` `TensorFlow` `Keras` `MobileNetV2`
 
-<a href="https://github.com/AreebAbdulGhani76/CV-CCP">
+<a href="https://github.com/AreebAbdulGhani76/Facial-Emotion-Detection.git">
 <img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="Emotion repository"/>
 </a>
 
