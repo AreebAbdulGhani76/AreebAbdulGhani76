@@ -86,13 +86,13 @@ AI-powered workplace safety equipment detection using YOLOv11, PyTorch, and Open
 
 `Python` `YOLOv11` `PyTorch` `OpenCV`
 
-<a href="https://github.com/AreebAbdulGhani76/PPE-Detection-System.git">
+<a href="https://github.com/AreebAbdulGhani76/PPE-Detection-System">
 <img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="PPE repository"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/AreebAbdulGhani76/Project-of-ML">
+<a href="https://github.com/AreebAbdulGhani76/PPE-Detection-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=Project-of-ML&theme=radical&hide_border=true&v=2" width="100%" alt="PPE Detection project card"/>
 </a>
 
@@ -113,13 +113,13 @@ Classifies seven facial emotions from webcam input, comparing a custom CNN with 
 
 `Python` `TensorFlow` `Keras` `MobileNetV2`
 
-<a href="https://github.com/AreebAbdulGhani76/Facial-Emotion-Detection.git">
+<a href="https://github.com/AreebAbdulGhani76/Facial-Emotion-Detection">
 <img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="Emotion repository"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/AreebAbdulGhani76/CV-CCP">
+<a href="https://github.com/AreebAbdulGhani76/Facial-Emotion-Detection">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=CV-CCP&theme=radical&hide_border=true&v=2" width="100%" alt="Facial Emotion Detection project card"/>
 </a>
 
