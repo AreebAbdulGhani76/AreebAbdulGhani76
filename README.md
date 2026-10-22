@@ -86,7 +86,7 @@ AI-powered workplace safety equipment detection using YOLOv11, PyTorch, and Open
 
 `Python` `YOLOv11` `PyTorch` `OpenCV`
 
-<a href="https://github.com/AreebAbdulGhani76/Project-of-ML">
+<a href="https://github.com/AreebAbdulGhani76/PPE-Detection-System.git">
 <img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="PPE repository"/>
 </a>
 
