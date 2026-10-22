@@ -93,7 +93,7 @@ AI-powered workplace safety equipment detection using YOLOv11, PyTorch, and Open
 <br/><br/>
 
 <a href="https://github.com/AreebAbdulGhani76/PPE-Detection-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=Project-of-ML&theme=radical&hide_border=true&v=2" width="100%" alt="PPE Detection project card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=PPE-Detection-System&theme=radical&hide_border=true&v=2" width="100%" alt="PPE Detection project card"/>
 </a>
 
 </td>
@@ -120,7 +120,7 @@ Classifies seven facial emotions from webcam input, comparing a custom CNN with 
 <br/><br/>
 
 <a href="https://github.com/AreebAbdulGhani76/Facial-Emotion-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=CV-CCP&theme=radical&hide_border=true&v=2" width="100%" alt="Facial Emotion Detection project card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=Facial-Emotion-Detection&theme=radical&hide_border=true&v=2" width="100%" alt="Facial Emotion Detection project card"/>
 </a>
 
 </td>
