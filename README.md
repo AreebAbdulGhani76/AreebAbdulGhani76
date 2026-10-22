@@ -5,7 +5,7 @@
 
 ### AI/ML Engineer | Junior Data Analyst 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C75B7A&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Junior+Data+Analyst;Computer+Vision+%26+Deep+Learning;Building+Real-Time+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C75B7A&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Junior+Data+Analyst;Building+Real World+AI+Solutions" alt="Typing SVG" />
 
 **BS Artificial Intelligence | Dawood University of Engineering & Technology**
 
