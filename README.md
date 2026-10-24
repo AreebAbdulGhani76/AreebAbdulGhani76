@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Areeb Abdul Ghani 
+# Hi, I'm Areeb Abdul Ghani 👋
 
 ### AI/ML Engineer | Junior Data Analyst 
 
