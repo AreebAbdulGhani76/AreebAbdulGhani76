@@ -162,13 +162,17 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 
 ---
 
+
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AreebAbdulGhani76&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=AreebAbdulGhani76&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebAbdulGhani76&layout=compact&theme=radical&hide_border=true" alt="Most used languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AreebAbdulGhani76&layout=compact&theme=radical&hide_border=true" alt="Most used languages"/>
+
+</div>
+
 
 ---
 
