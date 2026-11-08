@@ -6,8 +6,6 @@
   />
 </p>
 
-<br/>
-
 <div align="center">
 
 # Hi, I'm Areeb Abdul Ghani 👋
