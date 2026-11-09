@@ -1,10 +1,10 @@
-# Hi, I'm Areeb Abdul Ghani 👋
-
-<p align="center">
+ <p align="center">
   <img src="assets/areeb-pixel-banner.gif" width="100%" alt="Areeb's Animated Pixel Art Banner"/>
 </p>
 
 <div align="center">
+
+# Hi, I'm Areeb Abdul Ghani 👋
 
 ### AI/ML Engineer | Junior Data Analyst
 
