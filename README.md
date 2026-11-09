@@ -90,7 +90,7 @@ AI-powered workplace safety equipment detection using YOLOv11, PyTorch, and Open
 </a>
 
 <a href="https://github.com/AreebAbdulGhani76/VisionForge-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=VisionForge-AI&theme=radical&hide_border=true" width="400" alt="VisionForge AI project card"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=VisionForge-AI&theme=radical&hide_border=true" width="400" alt="VisionForge AI"/>
 </a>
 
 ---
@@ -112,7 +112,7 @@ Classifies seven facial emotions from webcam input, comparing a custom CNN with 
 </a>
 
 <a href="https://github.com/AreebAbdulGhani76/Facial-Emotion-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=Facial-Emotion-Detection&theme=radical&hide_border=true" width="400" alt="Facial Emotion Detection project card"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=Facial-Emotion-Detection&theme=radical&hide_border=true" width="400" alt="Facial Emotion Detection"/>
 </a>
 
 ---
@@ -136,7 +136,7 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 </a>
 
 <a href="https://github.com/AreebAbdulGhani76/ChurnIQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=ChurnIQ&theme=radical&hide_border=true" width="400" alt="ChurnIQ project card"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=ChurnIQ&theme=radical&hide_border=true" width="400" alt="ChurnIQ"/>
 </a>
 
 </div>
