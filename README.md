@@ -1,29 +1,23 @@
-<p align="center">
-  <img
-    src="assets/areeb-pixel-banner.gif"
-    width="100%"
-    alt="Areeb's Animated Pixel Art Banner"
-  />
+ <p align="center">
+  <img src="assets/areeb-pixel-banner.gif" width="100%" alt="Areeb's Animated Pixel Art Banner"/>
 </p>
 
 <div align="center">
 
 # Hi, I'm Areeb Abdul Ghani 👋
 
-### AI/ML Engineer | Junior Data Analyst 
+### AI/ML Engineer | Junior Data Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C75B7A&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Junior+Data+Analyst;Building+RealWorld+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C75B7A&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Junior+Data+Analyst;Building+Real-World+AI+Solutions" alt="Typing SVG"/>
 
 **BS Artificial Intelligence | Dawood University of Engineering & Technology**
 
-<p>
-  <a href="https://github.com/AreebAbdulGhani76">
-    <img src="https://img.shields.io/badge/GitHub-AreebAbdulGhani76-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/areeb-abdul-ghani-682248372/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+<a href="https://github.com/AreebAbdulGhani76">
+  <img src="https://img.shields.io/badge/GitHub-AreebAbdulGhani76-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/areeb-abdul-ghani-682248372/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
 </div>
 
@@ -35,9 +29,9 @@ I'm an Artificial Intelligence student and Junior Data Analyst passionate about 
 
 - 🎓 Pursuing a BS in Artificial Intelligence at Dawood University of Engineering & Technology.
 - 💼 Junior Data Analyst at Nodebook Private Limited.
-- 📊 Interested in data analytics, exploratory data analysis, and data-driven decision-making.
+- 📊 Interested in Data Analytics, Exploratory Data Analysis, and data-driven decision-making.
 - 🤖 Building practical projects in Machine Learning, Deep Learning, and Computer Vision.
-- 🦺 Developing a real-time PPE Detection System for workplace safety monitoring.
+- 🦺 Developing SafeSight AI, an AI-powered workplace safety monitoring system.
 - 🧠 Exploring production ML pipelines, API deployment, model tracking, and automation.
 - 🚀 Continuously learning through hands-on projects and practical AI applications.
 
@@ -58,9 +52,10 @@ I'm an Artificial Intelligence student and Junior Data Analyst passionate about 
 
 ### AI, Machine Learning & Computer Vision
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI and ML technologies"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and ML technologies"/>
 
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-111111?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### Deployment & Development
@@ -68,6 +63,7 @@ I'm an Artificial Intelligence student and Junior Data Analyst passionate about 
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,githubactions" alt="Development tools"/>
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 </div>
 
@@ -75,11 +71,9 @@ I'm an Artificial Intelligence student and Junior Data Analyst passionate about 
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<h3>🦺 PPE Detection System</h3>
+### 🦺 VisionForge AI — PPE Detection System
 
 **Real-Time Computer Vision Pipeline**
 
@@ -89,24 +83,19 @@ AI-powered workplace safety equipment detection using YOLOv11, PyTorch, and Open
 - Person and PPE detection
 - Safety compliance monitoring
 
-**Tech Stack**
+**Tech Stack:** `Python` `YOLOv11` `PyTorch` `OpenCV`
 
-`Python` `YOLOv11` `PyTorch` `OpenCV`
-
-<a href="https://github.com/AreebAbdulGhani76/PPE-Detection-System">
-<img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="PPE repository"/>
+<a href="https://github.com/AreebAbdulGhani76/VisionForge-AI">
+  <img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="VisionForge AI repository"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/AreebAbdulGhani76/PPE-Detection-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=PPE-Detection-System&theme=radical&hide_border=true&v=2" width="100%" alt="PPE Detection project card"/>
+<a href="https://github.com/AreebAbdulGhani76/VisionForge-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=VisionForge-AI&theme=radical&hide_border=true" width="400" alt="VisionForge AI project card"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3>😊 Facial Emotion Detection</h3>
+### 😊 Facial Emotion Detection
 
 **Real-Time Emotion Recognition**
 
@@ -116,26 +105,19 @@ Classifies seven facial emotions from webcam input, comparing a custom CNN with 
 - CNN vs. transfer learning
 - Seven emotion classes
 
-**Tech Stack**
-
-`Python` `TensorFlow` `Keras` `MobileNetV2`
+**Tech Stack:** `Python` `TensorFlow` `Keras` `MobileNetV2`
 
 <a href="https://github.com/AreebAbdulGhani76/Facial-Emotion-Detection">
-<img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="Emotion repository"/>
+  <img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="Facial Emotion Detection repository"/>
 </a>
-
-<br/><br/>
 
 <a href="https://github.com/AreebAbdulGhani76/Facial-Emotion-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=Facial-Emotion-Detection&theme=radical&hide_border=true&v=2" width="100%" alt="Facial Emotion Detection project card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=Facial-Emotion-Detection&theme=radical&hide_border=true" width="400" alt="Facial Emotion Detection project card"/>
 </a>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+---
 
-<h3>📊 Telco ChurnIQ</h3>
+### 📊 Telco ChurnIQ
 
 **End-to-End Production ML Pipeline**
 
@@ -147,28 +129,19 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 - Docker and GitHub Actions
 - Prometheus monitoring
 
-**Tech Stack**
-
-`Python` `scikit-learn` `XGBoost` `MLflow` `FastAPI` `Docker` `GitHub Actions` `Prometheus`
-
-<div align="center">
+**Tech Stack:** `Python` `Scikit-learn` `XGBoost` `MLflow` `FastAPI` `Docker` `GitHub Actions` `Prometheus`
 
 <a href="https://github.com/AreebAbdulGhani76/ChurnIQ">
-<img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="ChurnIQ repository"/>
+  <img src="https://img.shields.io/badge/View_Repository-C75B7A?style=for-the-badge&logo=github&logoColor=white" alt="ChurnIQ repository"/>
 </a>
 
 <a href="https://github.com/AreebAbdulGhani76/ChurnIQ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=ChurnIQ&theme=radical&hide_border=true&v=2" width="100%" alt="ChurnIQ project card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani76&repo=ChurnIQ&theme=radical&hide_border=true" width="400" alt="ChurnIQ project card"/>
 </a>
 
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
-
 
 ## 📈 GitHub Statistics
 
@@ -180,14 +153,13 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 
 </div>
 
-
 ---
 
 ## 🎯 Current Focus
 
 - Computer Vision and real-time object detection
 - Machine Learning and Deep Learning
-- Data analytics and visualization
+- Data Analytics and visualization
 - ML model deployment and API development
 - AI automation and intelligent applications
 
@@ -198,24 +170,19 @@ Customer churn prediction with leak-free feature engineering, a reported 85.0% R
 <div align="center">
 
 <a href="https://github.com/AreebAbdulGhani76">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/areeb-abdul-ghani-682248372/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=AreebAbdulGhani76&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=AreebAbdulGhani76&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+<br/><br/>
 
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+**Thanks for visiting my profile! ⭐**
 
 </div>
