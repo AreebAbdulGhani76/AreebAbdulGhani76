@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="assets/areeb-pixel-banner.gif" width="100%" alt="Areeb's Animated Pixel Art Banner"/>
 </p>
 
